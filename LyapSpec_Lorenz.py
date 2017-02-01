@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 22 14:56:13 2015
 The Huber_braun neuronal model function
-@author: ksxuu
+@author: kesheng.xu@cinv.cl & patricio.orio@uv.cl
 """
 import numpy as np
 import matplotlib.pyplot as plt
