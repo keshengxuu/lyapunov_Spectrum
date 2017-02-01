@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec 22 14:56:13 2016
-The Huber_braun neuronal model function
+The Lorenz system 
 @author: kesheng.xu@cinv.cl & patricio.orio@uv.cl
 """
 import numpy as np
